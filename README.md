@@ -1,4 +1,4 @@
-Reproducible analysis code and results for the study
+Analysis code and results for the study
 
 ### Association between stroke and psychosis across four nationally representative epidemiological studies
 
@@ -10,5 +10,5 @@ This archive contains the R code for the analysis reported in the above study. T
 
 This repository contains two Jupyter notebooks that report the analysis and results
 
-1.  Bell_et_al_StrokePsychosis_Analysis.ipynb - that reports the main analysis reported in this study
-2.  Bell_et_al_StrokePsychosis_Imputation.ipynb - that reports the random forest missing data imputation results for the variables taken from the Collaborative Psychiatric Epidemiology Surveys 2001-2003 dataset
+1.  [Bell_et_al_StrokePsychosis_Analysis.ipynb](https://github.com/vaughanbell/stroke-psychosis-national-epi-analysis/blob/main/Bell_et_al_StrokePsychosis_Analysis.ipynb) - that reports the main analysis reported in this study
+2.  [Bell_et_al_StrokePsychosis_Imputation.ipynb](https://github.com/vaughanbell/stroke-psychosis-national-epi-analysis/blob/main/Bell_et_al_StrokePsychosis_Imputation.ipynb) - that reports the random forest missing data imputation results for the variables taken from the Collaborative Psychiatric Epidemiology Surveys 2001-2003 dataset
