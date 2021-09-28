@@ -3,9 +3,15 @@ Analysis code and results for the study
 # Association between stroke and psychosis across four nationally representative epidemiological studies
 
 <p align="center">
-
-<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img src="https://img.shields.io/badge/Language-R-%232268BB.svg" alt="R Programming Language"/></a> <a href="https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook"><img src="https://img.shields.io/badge/Jupyter-Notebook-68B7EB" alt="Jupyter Notebook"/></a> <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="MIT License"/></a>
-
+	<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img
+		alt="R Programming Language"
+		src="https://img.shields.io/badge/Language-R-%232268BB.svg"></a>
+	<a href="https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook"><img
+		alt="Jupyter Notebook"
+		src="https://img.shields.io/badge/Jupyter-Notebook-68B7EB"></a>
+	<a href="https://opensource.org/licenses/MIT"><img
+		alt="MIT License"
+		src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
 Publication status: currently in pre-print
