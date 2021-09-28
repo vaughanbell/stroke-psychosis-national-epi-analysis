@@ -2,12 +2,6 @@ Analysis code and results for the study
 
 # Association between stroke and psychosis across four nationally representative epidemiological studies
 
-------------------------------------------------------------------------
-
-Publication status: currently in pre-print
-
-------------------------------------------------------------------------
-
 <p align="center">
 	<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img
 		alt="R Programming Language"
@@ -21,6 +15,8 @@ Publication status: currently in pre-print
 </p>
 
 ------------------------------------------------------------------------
+
+Publication status: currently in pre-print
 
 This archive contains the R code for the analysis reported in the above study. The code is presented as [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original datasets.
 
