@@ -43,7 +43,7 @@ The data can be downloaded from the [ICPSR website](https://www.icpsr.umich.edu/
 
 The National Mental Health Survey (Encuesta Nacional de Salud Mental) 2015 was a national psychiatric epidemiology study of Colombia completed by the Ministry and Health and Social Protection (Ministerio de Salud y Protección Social).
 
-The data can be access, following application, from the [Repositorio Institucional Digital](https://www.minsalud.gov.co/sites/rid/paginas/freesearchresults.aspx?k=Encuesta%20Nacional%20de%20Salud%20Mental&scope=Exacta), of the Ministerio de Salud.
+The data can be accessed, following application, from the [Repositorio Institucional Digital](https://www.minsalud.gov.co/sites/rid/paginas/freesearchresults.aspx?k=Encuesta%20Nacional%20de%20Salud%20Mental&scope=Exacta), of the Ministerio de Salud.
 
 *National Health Survey 2016-2017 (Chile)*
 
@@ -53,4 +53,4 @@ The data can be download from the [Departamento de Epidemiología](http://epi.mi
 
 ### Platform and package versions
 
-To aid reproducibility, the platform (hardware, operating system), R language version, and package versions used to generate the results, are automatically generated at runtime and reported at the end of the Jupyter notebooks.
+To aid reproducibility, the platform (hardware, operating system), R language version, and package versions used to generate the results are automatically generated at runtime and reported at the end of the Jupyter notebooks.
