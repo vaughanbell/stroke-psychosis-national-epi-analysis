@@ -8,9 +8,19 @@ Publication status: currently in pre-print
 
 ------------------------------------------------------------------------
 
-![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+<p align="center">
+	<a href="https://en.wikipedia.org/wiki/R_(programming_language)"><img
+		alt="R Programming Language"
+		src="https://img.shields.io/badge/Language-R-%232268BB.svg"></a>
+	<a href="https://en.wikipedia.org/wiki/Project_Jupyter#Jupyter_Notebook"><img
+		alt="Jupyter Notebook"
+		src="https://img.shields.io/badge/Jupyter-Notebook-68B7EB"></a>
+	<a href="https://opensource.org/licenses/MIT"><img
+		alt="MIT License"
+		src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
+</p>
 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+------------------------------------------------------------------------
 
 This archive contains the R code for the analysis reported in the above study. The code is presented as [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original datasets.
 
