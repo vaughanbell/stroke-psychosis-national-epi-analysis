@@ -14,7 +14,13 @@ Analysis code and results for the study
 		src="https://img.shields.io/badge/license-MIT-blue.svg"></a>
 </p>
 
-Publication status: currently in [pre-print](https://www.medrxiv.org/content/10.1101/2021.11.01.21265640v1).
+### Publication status
+
+Published as an open-access peer-reviewed article:
+
+Bell, V., Tamayo-Agudelo, W., Revill, G., Okai, D., & Poole, N. (2023). Association between stroke and psychosis across four nationally representative psychiatric epidemiological studies. *BJPsych Open*, 9(3), E71. [doi:10.1192/bjo.2023.47](https://doi.org/10.1192/bjo.2023.47)
+
+### Archive description
 
 This archive contains the R code for the analysis reported in the above study. The code is presented as [Jupyter notebooks](https://jupyter-notebook-beginner-guide.readthedocs.io/en/latest/what_is_jupyter.html) which are documents that combine both code and the output in a form that can be viewed online, but also re-run and the results reproduced when accompanied by the original datasets.
 
